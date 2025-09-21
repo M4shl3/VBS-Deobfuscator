@@ -6,3 +6,6 @@ It attempts to simplify and recover readable VBScript code so analysts can inspe
 
 # Usage :
 python3 deobfuscator.py <obfuscated.vbs> [out.txt]
+
+
+![Diagram showing deobfuscation workflow](Output.png)
