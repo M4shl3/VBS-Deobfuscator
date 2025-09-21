@@ -1,6 +1,6 @@
 # VB Deobfuscator
 
-A small Python utility to deobfuscate VBScript files produced by common obfuscators.  
+A small Python utility to deobfuscate VBScript files produced by https://isvbscriptdead.com/ Online Obfuscator.
 It attempts to simplify and recover readable VBScript code so analysts can inspect the logic, extract indicators, and locate embedded artifacts (comments, URLs, file names, etc.).
 
 
